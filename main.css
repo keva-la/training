@@ -1,0 +1,17 @@
+body {
+    background: rgb(100, 50, 150);
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    color: chartreuse;
+    font-family: sans-serif;   
+}
+
+div {
+    border: 1px dashed white;
+    padding: 10px;
+    width: 600px;
+    margin: auto;
+}
